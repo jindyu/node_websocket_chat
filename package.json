@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "nodemon src/main.js"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.10",
+    "eslint": "8.3.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "2.25.3",
+    "jslint": "0.12.1",
+    "lodash": "4.17.21",
+    "nodemon": "2.0.15",
+    "prettier": "2.5.0",
+    "typescript": "4.5.2"
+  },
+  "dependencies": {
+    "koa": "2.13.4",
+    "koa-pug": "5.0.0",
+    "tailwindcss": "2.2.19"
+  }
+}
